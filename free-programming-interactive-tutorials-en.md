@@ -48,6 +48,7 @@
 
 
 ###Java
+* [CodingBat code practice](http://codingbat.com/java)
 * [Learn Java](http://www.learnjavaonline.org/)
 
 
@@ -105,6 +106,7 @@
 * [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
 * [Ruby Koans](http://www.rubykoans.com/)
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
+* [The Odin Project](http://www.theodinproject.com/)
 * [Try Ruby](http://tryruby.org/)
 
 

@@ -1,4 +1,5 @@
 ###Index
+* [Assembly](#assembly)
 * [C++](#c)
 * [Databases](#databases)
 * [Haskell](#haskell)
@@ -10,6 +11,12 @@
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
 * [Ruby](#ruby)
+
+
+###Assembly
+* [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
+* [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
+
 
 ###C++
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
@@ -25,7 +32,7 @@
 ###Haskell
 * [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/) - Brent Yorgey
 * [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) - Bryan O'Sullivan
-
+* [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer
 
 ###HTML / CSS
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
@@ -61,6 +68,7 @@
 ###Python
 * [Berkeley's Structure and Interpretation of Computer Programs](http://www-inst.eecs.berkeley.edu/~cs61a/)
 * [Google's Python Course](https://developers.google.com/edu/python/)
+* [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
 
 
 ###Ruby

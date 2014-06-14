@@ -20,6 +20,7 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
+    * [D3](#d3js)
     * [jQuery](#jquery)
     * [node.js](#nodejs)
 * [Java](#java)
@@ -164,6 +165,10 @@
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
 
 
+####D3.js
+* [Tutorial de D3](http://gcoch.github.io/D3-tutorial/index.html)
+
+
 ####jQuery
 * [Fundamentos de jQuery](http://librojquery.com/)
 
@@ -215,12 +220,13 @@
 
 
 ###Ruby
-* [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubyperu/aprende.a.programar)
+* [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubysur/aprende.a.programar)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
 
 
 ####Ruby on Rails
 * [El maldito libro de los Descarrilados](http://yottabi.com/mld.pdf) (PDF)
+* [Introducción a Rails](http://rubysur.org/introduccion.a.rails/)
 
 
 ###R

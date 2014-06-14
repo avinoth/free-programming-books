@@ -6,6 +6,8 @@ This list initially was a clone of [stackoverflow - List of Freely Available Pro
 
 Moved to GitHub for collaborative updating and for the site mentioned above.
 
+### NEW : Search inside free-programming-books.md (and a whole lot more of learning resources)
+[resrc.io/search](http://resrc.io/search/)
 
 ### How To Contribute
 It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Please read [CONTRIBUTING](/CONTRIBUTING.md).
@@ -13,7 +15,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 - Read the [TODO](/TODO.md) file(Adding new books is our #1 priority, but things like Alphabetizing are important, too.)
 - [Edit](https://github.com/vhf/free-programming-books/edit/master/free-programming-books.md) (we prefer multiple small commits rather than one large change)
 - [Send a PR](https://help.github.com/articles/using-pull-requests)
-- be part of a project that over 25,000 people starred in 7 months. ;)
+- be part of a project that over 26,000 people starred in 8 months. ;)
 
 **Again, unlike other projects, we prefer multiple small commits rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing**, thanks.
 
@@ -55,3 +57,8 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 
 ### Interactive Programming Resources
 + Free interactive programming tutorials: [github](/free-programming-interactive-tutorials-en.md) or [site](http://resrc.io/list/217/programming-interactive-tutorials/)
+
+### Podcast - Screencast
+Free Podcasts and Screencasts:
+
++ English: [github](/free-podcasts-screencasts-en.md)

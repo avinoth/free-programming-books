@@ -2,6 +2,7 @@
 * [言語非依存](#%e8%a8%80%e8%aa%9e%e9%9d%9e%e4%be%9d%e5%ad%98)
     * [アクセシビリティ](#%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b7%e3%83%93%e3%83%aa%e3%83%86%e3%82%a3)
 	* [組み込みシステム](#%e7%b5%84%e3%81%bf%e8%be%bc%e3%81%bf%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0)
+    * [機械学習](#%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92)
     * [グラフィックスプログラミング](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
     * [グラフィックユーザーインターフェイス](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%95%e3%82%a7%e3%82%a4%e3%82%b9)
     * [正規表現](#%e6%ad%a3%e8%a6%8f%e8%a1%a8%e7%8f%be)
@@ -25,6 +26,10 @@
 * [Erlang](#erlang)
 * [Git](#git)
 * [Go](#go)
+* [Groovy](#groovy)
+    * [Gradle](#gradle)
+    * [Grails](#grails)
+    * [Spock Framework](#spock-framework)
 * [Haskell](#haskell)
 * [Haxe](#haxe)
 * [iOS](#ios)
@@ -70,6 +75,12 @@
 * [iOS アクセシビリティ プログラミング ガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhoneAccessibility.pdf) (PDF) - Apple Developer
 * [Accessible Rich Internet Applications](https://developer.mozilla.org/ja/docs/ARIA/Accessible_Rich_Internet_Applications) - MDN
 * [アクセシビリティのための設計](http://msdn.microsoft.com/ja-jp/library/windows/apps/hh700407.aspx) - MSDN Library
+
+
+####機械学習
+* [機械学習 はじめよう](http://gihyo.jp/dev/serial/01/machine-learning) - 中谷秀洋，恩田伊織
+* [Mahoutで体感する機械学習の実践](http://gihyo.jp/dev/serial/01/mahout) - やまかつ
+* [Jubatus : オンライン機械学習向け分散処理フレームワーク](http://jubat.us/ja/index.html#table-of-contents) - [Jubatus チーム](http://jubat.us/ja/aboutus.html)
 
 
 ####組み込みシステム
@@ -238,6 +249,21 @@
 ###Go
 * [Goプログラミング言語のチュートリアル](http://golang.jp/go_tutorial)
 
+###Groovy
+* [Groovy入門](http://www.oki-osk.jp/esc/groovy/) - OKIソフトウェア
+* [JGGUG G*Magazine](http://grails.jp/g_mag_jp/) (PDF,EPUB) - JGGUG(日本Grails/Groovyユーザーグループ)
+
+####Gradle
+* [Gradle 日本語ドキュメント](http://gradle.monochromeroad.com/docs/) ([PDF](http://gradle.monochromeroad.com/docs/userguide/userguide.pdf)) - Hayashi Masatoshi, Sekiya Kazuchika, Sue Nobuhiro, Mochida Shinya
+* [ビルドツールGradleスタートアップガイドの紹介](http://www.ntts.co.jp/publish/column/tec/java_03/) - 鈴木雅貴
+
+####Grails
+* [Grailsフレームワーク 日本語リファレンス](http://grails.jp/doc/latest/) - T.Yamamoto & Japanese Grails Doc Translating Team. Special thanks to NTT Software.
+* [Grailsを用いたファイルアップローダ作成](http://www.ntts.co.jp/publish/column/tec/java_02/) - 須藤悠
+
+####Spock Framework
+* [Spock Framework リファレンスドキュメント](http://spock-framework-reference-documentation-ja.readthedocs.org/ja/latest/) - Peter Niederwieser, Kazuki YAMAMOTO
+* [G*ワークショップZ May 2013 - Spockハンズオンの資料](https://github.com/yamkazu/spock-workshop/tree/master/docs) - Kazuki YAMAMOTO
 
 ###Haskell
 * [Haskell基礎文法最速マスター](http://d.hatena.ne.jp/ruicc/20100131/1264905896) - id:ruicc
